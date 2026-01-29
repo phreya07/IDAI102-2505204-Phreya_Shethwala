@@ -33,5 +33,5 @@ Why people miss their medications?
 3.	Gamification Without Pressure Rewards celebrate consistency (streak badges) without punishing missed doses. Mascot displays encouragement regardless of adherence level—"Your turtle believes in you!" even at 60%.
 4.	Emotional Design Language Soft gradients, friendly emojis, warm color palettes, and companion animals create feelings of care and support rather than clinical monitoring. The app feels like a friend, not a medical device.
    
-streamlit link- 
+streamlit link- https://idai102-2505204-phreyashethwala-python.streamlit.app/
 
